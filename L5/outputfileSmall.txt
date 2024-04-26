@@ -1,0 +1,6 @@
+user1	["'Fight Club'", "'The Dark Knight'", "'The Shawshank Redemption'"]
+user2	["'The Godfather'", '"Schindler\'s List"', "'The Lion King'", "'Pulp Fiction'", "'Titanic'"]
+user3	["'Interstellar'", "'Titanic'", "'The Matrix'", "'Toy Story'", "'Inception'"]
+user4	["'The Lion King'", "'Avatar'", "'Titanic'"]
+user5	["'Toy Story'", "'The Matrix'", "'Interstellar'", "'Inception'"]
+user6	['"Schindler\'s List"', "'The Godfather'", "'Pulp Fiction'"]

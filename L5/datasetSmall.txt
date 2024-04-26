@@ -1,0 +1,29 @@
+user1    Toy Story         5
+user1    The Lion King     4
+user1    Forrest Gump      3
+user1    Titanic           4
+user1    Avatar            5
+user2    Toy Story         4
+user2    Forrest Gump      5
+user2    Inception         3
+user2    The Matrix        4
+user2    Interstellar      5
+user3    The Lion King     2
+user3    Forrest Gump      4
+user3    The Godfather     5
+user3    Pulp Fiction      3
+user3    Schindler's List  4
+user4    Toy Story         5
+user4    Forrest Gump      3
+user4    The Shawshank Redemption  4
+user4    Fight Club        5
+user4    The Dark Knight   2
+user5    The Lion King     4
+user5    Forrest Gump      5
+user5    The Godfather     3
+user5    Titanic           4
+user5    Gladiator         4
+user6    Toy Story         1
+user6    The Lion King     1
+user6    Forrest Gump      1
+user6    Titanic           5
